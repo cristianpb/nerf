@@ -27,6 +27,8 @@ jobs:
         run: npm ci
       - name: 🏗 Build html
         run: NODE_ENV=production npm run build
+        env: 
+          PUBLIC_BASEURL: '/nerf'
       - name: 🚀 Deploy to GitHub pages
         if: success() && steps.extract_branch.outputs.branch == 'master'
         uses: peaceiris/actions-gh-pages@v3

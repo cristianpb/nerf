@@ -1,6 +1,7 @@
 <script>
 	import MainNav from './MainNav.svelte'
 	import HamburgerMenuButton from './HamburgerMenuButton.svelte'
+  import { base } from '$app/paths';
 	import { siteTitle } from '$lib/config'
 
 	const focusMain = () => {
@@ -15,7 +16,7 @@
 		Skip to main content
 	</a>
 	
-	<a href="/" class="site-title">
+  <a href="{base}/" class="site-title">
 		{siteTitle}
 	</a>
 	

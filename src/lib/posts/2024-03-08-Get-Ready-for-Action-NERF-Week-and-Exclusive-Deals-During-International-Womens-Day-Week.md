@@ -10,6 +10,9 @@ coverHeight: 16
 excerpt: Check out how heading links work with this starter in this post.
 ---
 
+<script>
+  import { base } from '$app/paths';
+</script>
 
 
 Are you a fan of the iconic NERF brand? Are you looking for an adrenaline-pumping activity to engage in during March or the week leading up to International Women's Day (March 8th)? Look no further! We are excited to announce **NERF Week** is upon us!
@@ -23,7 +26,7 @@ NERF Week is all about celebrating the thrilling world of NERF battles and bring
 * **Virtual NERF Battles:** Join the fun and play NERF battles in virtual reality (VR) online with fans worldwide. We have organized multiple sessions during NERF Week to ensure you don't miss a moment of excitement!
 
 
-![20240308GetReadyforActionNERFWeekandExclusiveDealsDuringInternationalWomensDayWeek_2](/images/posts/20240308GetReadyforActionNERFWeekandExclusiveDealsDuringInternationalWomensDayWeek_2.jpg)
+<img class="cover-image" src="{base}/images/posts/20240308GetReadyforActionNERFWeekandExclusiveDealsDuringInternationalWomensDayWeek_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 * **NERF Masterclasses & Workshops:** Sharpen your skills and learn from experts during our masterclass and workshop events. Learn tips and tricks on how to customize and upgrade your NERF gear to become the ultimate NERF warrior.
 

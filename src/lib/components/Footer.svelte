@@ -1,5 +1,6 @@
 <script>
 	import { siteAuthor } from '$lib/config';
+	import { navItems } from '$lib/config';
 	import NavItems from './NavItems.svelte';
   import { base } from '$app/paths';
 </script>
@@ -16,7 +17,13 @@
 		</ul>
 	</nav>
 	<nav>
-		<NavItems />
+    <ul>
+      {#each navItems as page}
+        <a href={base}{page.route}>
+          {page.title}
+        </a>
+      {/each}
+    </ul>
 	</nav>
 
 	<p>&copy;{new Date().getFullYear()} {siteAuthor}</p>

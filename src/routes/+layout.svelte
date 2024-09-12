@@ -1,15 +1,19 @@
 <!-- This is the global layout file; it "wraps" every page on the site. (Or more accurately: is the parent component to every page component on the site.) -->
 <script>
+	import '../app.postcss';
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 	import { currentPage, isMenuOpen } from '../lib/assets/js/store.js';
 	import { navItems } from '$lib/config';
 	import { preloadCode } from '$app/navigation';
 	import { onMount } from 'svelte';
-  import { base } from '$app/paths';
 	import { fade } from 'svelte/transition';
 	import { siteTitle, siteURL } from '$lib/config.js';
 	export let data;
+
+	import { DarkMode } from 'flowbite-svelte';
+	let darkmodebtn =
+		'text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-lg p-2.5 fixed right-4 top-2 z-50';
 
 	const transitionIn = { delay: 150, duration: 150 };
 	const transitionOut = { duration: 100 };
@@ -34,18 +38,6 @@
 </script>
 
 <svelte:head>
-  <link rel="stylesheet" href="{base}/css/vars.css" />
-	<link rel="stylesheet" href="{base}/css/root.css" />
-	<link rel="stylesheet" href="{base}/css/fonts.css" />
-	<link rel="stylesheet" href="{base}/css/typography.css" />
-	<link rel="stylesheet" href="{base}/css/layout.css" />
-	<link rel="stylesheet" href="{base}/css/components.css" />
-	<link rel="stylesheet" href="{base}/css/header-and-footer.css" />
-	<link rel="stylesheet" href="{base}/css/forms.css" />
-	<link rel="stylesheet" href="{base}/css/animation.css" />
-	<link rel="stylesheet" href="{base}/css/utilities.css" />
-	<link rel="stylesheet" href="{base}/css/code.css" />
-	<link rel="stylesheet" href="{base}/css/prism.css" />
 	<link
 		rel="alternate"
 		type="application/rss+xml"
@@ -60,6 +52,7 @@
 -->
 <div class="layout" class:open={$isMenuOpen}>
 	<Header />
+  <DarkMode btnClass={darkmodebtn} />
 	{#key data.path}
 		<main id="main" tabindex="-1" in:fade|global={transitionIn} out:fade|global={transitionOut}>
 			<slot />

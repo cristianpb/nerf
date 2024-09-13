@@ -24,7 +24,7 @@ Are you looking for a fun and exciting way to celebrate Fall this year? Look no 
 2. ***DIY NERF Modifications:*** Get creative by modifying your existing NERF blasters or designing new ones from scratch! There are many tutorials available online that can help you enhance your NERF experience with custom modifications, such as new colors, designs, and upgrades like faster dart velocities. Make sure to follow safety guidelines when handling any tools or modifying your blasters.
    
 
-<img class="cover-image" src="{base}/images/posts/20241029GetReadyforSomeEpicFallFunwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241029GetReadyforSomeEpicFallFunwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 3. ***NERF Party:*** Throw an amazing NERF-themed party for your children and their friends! Decorate the venue with balloons, streamers, and colorful banners. Serve some delicious Fall treats like pumpkin pie, apple cider, and caramel apples to keep the energy levels high. Set up multiple stations and games to ensure everyone has a blast participating in various NERF activities throughout the party.
    

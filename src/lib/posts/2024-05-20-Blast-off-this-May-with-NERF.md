@@ -31,7 +31,7 @@ NERF is all about fostering adventure and excitement through creative play, enab
 
 ### Join the May NERF frenzy:
 
-<img class="cover-image" src="{base}/images/posts/20240520BlastoffthisMaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240520BlastoffthisMaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 That's right! From May 15th to 22nd, join us in celebrating the world of NERF and unlock amazing exclusives and special discounts with this limited-time event. Here's what you can expect:
 

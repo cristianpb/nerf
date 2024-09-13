@@ -1,4 +1,5 @@
 import flowbitePlugin from 'flowbite/plugin'
+//import typography from '@tailwindcss/typography';
 
 const config = {
 	content: [
@@ -21,12 +22,14 @@ const config = {
           700: '#EB4F27',
           800: '#CC4522',
           900: '#A5371B'
-        }
+        },
+        nerforange: '#f26a34',
+        nerfblue: '#84a0d8'
       }
     }
 	},
 
-	plugins: [flowbitePlugin]
+	plugins: [flowbitePlugin,     require('@tailwindcss/typography')]
 };
 
 module.exports = config;

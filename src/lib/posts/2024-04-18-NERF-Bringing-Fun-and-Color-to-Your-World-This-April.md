@@ -22,7 +22,7 @@ NERF has been the go-to choice for families and friends wanting to let off some 
 
 ## **Earth Day (April 22)**
 
-<img class="cover-image" src="{base}/images/posts/20240418NERFBringingFunandColortoYourWorldThisApril_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240418NERFBringingFunandColortoYourWorldThisApril_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 NERF not only brings fun to our lives but also promotes eco-friendly practices. This Earth Day, take a break and go outside with friends or family to enjoy an earth-inspired NERF adventure. Use the opportunity to teach your kids about environmental conservation while you embrace the outdoors with your NERF gear!
 

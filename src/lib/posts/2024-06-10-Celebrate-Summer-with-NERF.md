@@ -21,7 +21,7 @@ It's **Summertime**, and the living is easy – but even more so when you have a
 - Safe and fun: NERF darts are made from foam, ensuring safe play while still providing an exciting experience.
 - Versatile games: With a variety of blaster styles, including rifles, pistols, and shotguns, there's something for everyone in the family to enjoy.
 
-<img class="cover-image" src="{base}/images/posts/20240610CelebrateSummerwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240610CelebrateSummerwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 - Accessibility: NERF can be played just about anywhere - backyards, parks, or even your living room, making it perfect for impromptu gatherings or planned events.
 

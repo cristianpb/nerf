@@ -21,7 +21,7 @@ October 1st is a special day for those who love noodles. It's [**World Noodle Da
 * Get your friends or family together for a friendly noodle bowl competition. Create teams and assign them different types of noodles to prepare - ramen, spaghetti, udon, or any other favorite! Each team will be judged based on taste, presentation, and creativity. The winner gets an honorary Noodle Master title and a prize - could it be a set of NERF blasters? You decide!
 * Share your noodle creations on social media using the hashtag #NERFNoodleBowlChallenge and tag us at @NERF. We'll feature our favorites on our official channels!
 
-<img class="cover-image" src="{base}/images/posts/20241001CelebrateWorldNoodleDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241001CelebrateWorldNoodleDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 1. **Noodle-Inspired NERF War**
 * Dress up your NERF blasters in the colors of your favorite noodles to create a unique army, be it ramen, spaghetti, or soba! Gather your squad and stage an epic Noodle-themed battle. Don't forget to share pics of your team on Instagram using #NERFWorldNoodleDay to show off your creativity!

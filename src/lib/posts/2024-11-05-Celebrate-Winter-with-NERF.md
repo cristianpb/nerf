@@ -26,7 +26,7 @@ Kick off the holiday season in style! From November 5th to November 8th, we're o
 Who says snowball fights are just for kids? On November 18th, gather your friends and family for a memorable NERF Snowball Fight Championship! We're hosting this fun-filled event at our flagship store in New York City, complete with hot cocoa, prizes, and even an appearance from the big guy himself - Santa Claus!
 
 
-<img class="cover-image" src="{base}/images/posts/20241105CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241105CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## #3: Cyber Monday Mega Blowout (November 28th)
 

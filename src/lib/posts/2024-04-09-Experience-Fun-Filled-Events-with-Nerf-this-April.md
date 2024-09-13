@@ -24,7 +24,7 @@ Kick off the festivities at our Nerf Blaster Bonanza event on April 9th! This is
 ## 🎮 April 14th: Nerf Gaming Showdown:
 
 
-<img class="cover-image" src="{base}/images/posts/20240409ExperienceFunFilledEventswithNerfthisApril_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240409ExperienceFunFilledEventswithNerfthisApril_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Fans of Nerf-inspired video games won't want to miss our Nerf Gaming Showdown on April 14th. Compete against friends and fellow gamers in your favorite Nerf-themed titles, and you could win exclusive prizes and swag! Plus, discover new releases and pre-order your favorites at discounted prices.
 

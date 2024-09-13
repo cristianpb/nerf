@@ -20,7 +20,7 @@ excerpt: Check out how heading links work with this starter in this post.
 ## Get a Head Start on Christmas Shopping with the Perfect Gift – NERF Products
 **Black Friday and Cyber Monday sales are the perfect opportunity to grab discounted NERF products for your loved ones**. Our wide range of products ensures that there's something for everyone. Whether it's the little one who just learned how to walk or the teen in need of a challenge, we have NERF items that cater to all ages and skill levels.
 
-<img class="cover-image" src="{base}/images/posts/20241209CelebratetheHolidaySeasonwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241209CelebratetheHolidaySeasonwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## Join the Festive Fun with Holiday-Themed Events

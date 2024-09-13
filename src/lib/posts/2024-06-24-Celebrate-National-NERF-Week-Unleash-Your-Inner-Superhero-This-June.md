@@ -31,7 +31,7 @@ Organize neighborhood NERF battles to put your blasters' skills to the test. Cre
 <h3>2. Customization Craze</h3>
 Showcase your artistic side by customizing your NERF blasters and darts. There are endless possibilities, from painting, decorating with stickers, to adding LED lights or creating accessories. Share your masterpieces for a chance to be featured on the official NERF website.
 
-<img class="cover-image" src="{base}/images/posts/20240624CelebrateNationalNERFWeekUnleashYourInnerSuperheroThisJune_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240624CelebrateNationalNERFWeekUnleashYourInnerSuperheroThisJune_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 <hr>

@@ -23,7 +23,7 @@ From the 14th to the 20th of October, we invite you to join us in creating unfor
 
 * **NerFest Parade**: Take part in our colourful and exhilarating parade! Dress up in your favourite themed outfit, paint your faces with vibrant colours, and march along the streets while enjoying an energetic procession of music and laughter.
 
-<img class="cover-image" src="{base}/images/posts/20241015NERFUpYourHolidayFunwithNerFest2022_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241015NERFUpYourHolidayFunwithNerFest2022_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 * **NERF Workshops**: Unleash your inner artist by joining our NERF-inspired arts and crafts workshops. Get creative with us as we transform ordinary materials into extraordinary masterpieces!
 * **Fun Games & Activities**: Experience a variety of interactive games, bouncing adventures, and thrilling sports events specially designed for all ages! Don't miss the chance to compete in our NerFest Olympics or take part in our colorful foam parties!

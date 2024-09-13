@@ -19,7 +19,7 @@ July is NERF month, a time for foam dart enthusiasts to gear up and enjoy some f
 
 ## 1. Host Your Own NERF War Party
 
-<img class="cover-image" src="{base}/images/posts/20240713FunandFestiveActivitiestoCelebrateNERFMonththisJuly_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240713FunandFestiveActivitiestoCelebrateNERFMonththisJuly_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 Invite your friends and family over for a day of non-stop action, laughs, and fun with Nerf blasters. Set up different battle stations or obstacle courses around the yard and let the games begin! Don't forget to provide plenty of water and refreshments to keep everyone hydrated and energized.

@@ -27,7 +27,7 @@ Let's kick things off with a splash! Take your NERF games to the next level with
 3. **NERF Super Soaker Fortnite TS-L Thunderstorm Blitzer** - Combining the thrill of Fortnite with NERF's signature water power, this blaster will have you and your friends embroiled in a battle royal!
 
 
-<img class="cover-image" src="{base}/images/posts/20240617CelebrateSummerwithNERFFunandGamesinJune_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240617CelebrateSummerwithNERFFunandGamesinJune_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 <hr>
 ## 🎆 NERF: The Perfect Addition to Your Fourth of July Celebrations

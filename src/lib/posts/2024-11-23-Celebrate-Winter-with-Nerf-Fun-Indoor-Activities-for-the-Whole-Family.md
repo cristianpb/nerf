@@ -16,7 +16,7 @@ excerpt: Check out how heading links work with this starter in this post.
 
 
 
-<img class="cover-image" src="{base}/images/posts/20241123CelebrateWinterwithNerfFunIndoorActivitiesfortheWholeFamily_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241123CelebrateWinterwithNerfFunIndoorActivitiesfortheWholeFamily_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 November is a great time to enjoy the colder weather and winter activities. **NERF** toys offer a fun, indoor alternative to traditional outdoor sports and games. Plus, there are many events happening on November 23rd or during that week or month to take advantage of. Here are some ideas for ways to celebrate winter with NERF:
 

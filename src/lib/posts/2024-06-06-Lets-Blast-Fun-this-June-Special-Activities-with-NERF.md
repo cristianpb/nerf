@@ -29,7 +29,7 @@ __Try these challenges to make it more exciting:__
 
 ## 2. NERF Workshop: Make Your Own Blaster
 
-<img class="cover-image" src="{base}/images/posts/20240606LetsBlastFunthisJuneSpecialActivitieswithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240606LetsBlastFunthisJuneSpecialActivitieswithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Have a DIY NERF workshop with your friends or family, where you can learn how to modify and create custom blasters from existing ones! You'll also get to decorate it according to your taste or theme. 
 

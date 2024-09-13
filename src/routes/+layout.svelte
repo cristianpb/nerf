@@ -8,6 +8,7 @@
 	import { onMount } from 'svelte';
 	import { fade } from 'svelte/transition';
 	import { siteTitle, siteURL } from '$lib/config.js';
+  import { base } from '$app/paths';
 	export let data;
 
 
@@ -38,7 +39,7 @@
 		rel="alternate"
 		type="application/rss+xml"
 		title={siteTitle}
-		href="http://{siteURL}/api/rss.xml"
+    href="{base}/api/rss.xml"
 	/>
 </svelte:head>
 

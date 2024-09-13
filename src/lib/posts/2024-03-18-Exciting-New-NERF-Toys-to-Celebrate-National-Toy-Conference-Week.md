@@ -27,7 +27,7 @@ March is a fun month, and March 18th marks the beginning of [National Toy Confer
    * The NERF N-Strike Elite Rapid Strike CS-18 blaster is perfect for those who love fast-paced NERF battles. With its rapid-fire feature, you can unleash 18 darts in a matter of seconds! This blaster also comes with various customization options to make it truly yours.
 4. **NERF Micro Shots Series**
 
-<img class="cover-image" src="{base}/images/posts/20240318ExcitingNewNERFToystoCelebrateNationalToyConferenceWeek_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240318ExcitingNewNERFToystoCelebrateNationalToyConferenceWeek_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
    * The perfect toys for young ones starting their NERF adventure, the NERF Micro Shots series is mini, mighty, and easy to use! Designed especially for children aged 4 and up, these tiny blasters are big on fun!
 

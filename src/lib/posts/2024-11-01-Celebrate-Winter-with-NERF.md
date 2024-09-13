@@ -30,7 +30,7 @@ November marks the beginning of winter, and what better way to celebrate this se
 
 Embrace the snow and chill of winter with these fun outdoor activities:
 
-<img class="cover-image" src="{base}/images/posts/20241101CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241101CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 1. **NERF Snowball Blaster** - Take your snowball fights to the next level with the NERF Snowball Blaster, capable of launching six snowballs in a row!

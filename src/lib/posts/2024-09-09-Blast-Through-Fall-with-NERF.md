@@ -26,7 +26,7 @@ Keep an eye out for these upcoming NERF events:
 3. **Halloween Showdown (October 29-31)**: 👻 Gather your friends for some spooky festivities and a thrilling Nerf experience at our Halloween Showdown event! You'll have the chance to compete in themed challenges, play in haunted arenas, and even attend costume contests.
 
 
-<img class="cover-image" src="{base}/images/posts/20240909BlastThroughFallwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240909BlastThroughFallwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 **Enhance Your Nerf Experience with The Latest Gear**
 

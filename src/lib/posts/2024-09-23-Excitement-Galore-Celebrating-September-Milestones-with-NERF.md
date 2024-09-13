@@ -22,7 +22,7 @@ September is a month filled with excitement and fun events, and what better way 
 Add an extra dose of fun to this creative holiday by organizing a NERF war themed play date! Ask each child attending the party to create their own NERF character using Play-Doh. Set up targets and obstacles around your backyard or living room and let the kids unleash their imagination as they create stories and scenarios on how their characters would defend themselves against an incoming NERF attack. Just remember, no one gets left out, even those without a custom Play-Doh warrior can still participate in the fun!
 
 
-<img class="cover-image" src="{base}/images/posts/20240923ExcitementGaloreCelebratingSeptemberMilestoneswithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240923ExcitementGaloreCelebratingSeptemberMilestoneswithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 **2. National Dog Day (September 23)**
 

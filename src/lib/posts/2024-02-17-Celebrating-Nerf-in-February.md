@@ -24,7 +24,7 @@ On this day, nerf enthusiasts around the world come together to celebrate their 
 ## Winter Nerf Wars (February)
 
 
-<img class="cover-image" src="{base}/images/posts/20240217CelebratingNerfinFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240217CelebratingNerfinFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Winter Nerf Wars are organized events held throughout February where players can gather together in various locations to engage in friendly battles using their favorite Nerf blasters. These events provide a fun and exciting way to stay active while celebrating the joy of Nerf. Keep an eye on local event calendars for opportunities near you.
 

@@ -9,6 +9,7 @@ const config = {
 	// Ensures both .svelte and .md files are treated as components (can be imported and used anywhere, or used as pages)
 	extensions: ['.svelte', '.md'],
 	preprocess: [
+    vitePreprocess(),
 		mdsvex({
 			// The default mdsvex extension is .svx; this overrides that.
 			extensions: ['.md'],
@@ -19,7 +20,6 @@ const config = {
 				rehypeAutolinkHeadings,
 			],
 		}),
-    vitePreprocess()
 	],
 
 	kit: {

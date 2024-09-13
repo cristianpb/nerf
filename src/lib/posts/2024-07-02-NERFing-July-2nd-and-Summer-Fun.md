@@ -20,7 +20,7 @@ excerpt: Check out how heading links work with this starter in this post.
 ## Why NERF is Perfect for Summer Fun 
 
 
-<img class="cover-image" src="{base}/images/posts/20240702NERFingJuly2ndandSummerFun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240702NERFingJuly2ndandSummerFun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 1. **Safe for All Ages:** NERF guns are made with high-quality materials that ensure they're safe for everyone - kids, teens, and even adults! That means families can enjoy a playtime together without worrying about any injuries.
 2. **Promotes Physical Activity:** With NERF, you can easily organize games that are physically engaging and fun. Spend more time outdoors, soak up the sun, and stay active with NERF all summer long!

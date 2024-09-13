@@ -23,7 +23,7 @@ For a limited time only, get your hands on incredible discounts on our wide rang
    
    ### NERF Summer Camp (July 18-23)
 
-<img class="cover-image" src="{base}/images/posts/20240715CelebrateSummerwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240715CelebrateSummerwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Join us for an unforgettable week of fun at our NERF Summer Camp! Children aged between 6-12 years can enjoy a variety of activities, including sports games, water fights, and of course, plenty of NERF battles. Sign up now to secure your spot!
    

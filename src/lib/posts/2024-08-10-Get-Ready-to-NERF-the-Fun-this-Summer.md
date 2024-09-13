@@ -30,7 +30,7 @@ Are you the proud owner of a Nerf arsenal that's bursting at the seams? Or perha
 Exchange, sell, or trade your used, new, or rare Nerf items with fellow enthusiasts from across the city! Don't forget to bring your best Nerf finds as we unite to spread the love for this popular brand.
 **Schedule**: 10:00 AM - 4:00 PM
 
-<img class="cover-image" src="{base}/images/posts/20240810GetReadytoNERFtheFunthisSummer_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240810GetReadytoNERFtheFunthisSummer_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 - Free entry
 - No restrictions on Nerf items

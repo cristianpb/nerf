@@ -26,7 +26,7 @@ excerpt: Check out how heading links work with this starter in this post.
 **When:** July 30th, 10:00 AM - 4:00 PM
 **Where:** [Community Center]
 
-<img class="cover-image" src="{base}/images/posts/20240729NERFYourWayThroughtheSummerFunwithExcitingEventsThisWeek_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240729NERFYourWayThroughtheSummerFunwithExcitingEventsThisWeek_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 **Details:** Spend quality time with your loved ones and NERF your way through the day at this family-friendly event. Enjoy various games and activities designed to bring a smile to everyone's face, no matter their age!
  

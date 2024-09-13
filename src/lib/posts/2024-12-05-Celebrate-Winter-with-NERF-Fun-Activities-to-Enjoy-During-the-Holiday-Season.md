@@ -20,7 +20,7 @@ It's officially winter, which means it's the perfect time to indulge in festive 
 *How to Get Started:*
 1\. **Nerf War Party**: Gather your friends and family for an epic indoor or outdoor Nerf war party! Decide on teams or play free-for-all, set up targets or obstacles, and compete for the title of ultimate Nerf champion. Be sure to include a variety of Nerf blasters and foam darts in your battle arsenal—you never know when you'll need an unexpected weapon!
 
-<img class="cover-image" src="{base}/images/posts/20241205CelebrateWinterwithNERFFunActivitiestoEnjoyDuringtheHolidaySeason_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241205CelebrateWinterwithNERFFunActivitiestoEnjoyDuringtheHolidaySeason_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 2\. **Create a Festive Battlefield**: Dress up your Nerf arena with holiday-themed decorations, like hanging tinsel and stringing lights. Add some festive flair to your gear by using colorful holly garlands as makeshift stocks or creating custom Nerf darts wrapped in red and green crepe paper.
 3\. **Nerf Crafts for Kids**: Bond with the little ones while making DIY holiday-themed Nerf accessories, like stockings to stash ammo or ornamental targets to practice shooting skills. Don't forget to document your crafting and battling adventures with photos and videos to share online!

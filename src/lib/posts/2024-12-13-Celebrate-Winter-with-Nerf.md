@@ -23,7 +23,7 @@ Stay tuned to our social media pages where we'll announce special discounts and 
 What better way to spend a wintery day than by engaging in a friendly Nerf competition? Organize a snowball fight using Nerf foam darts or participate in the #NerfSnowdownChallenge - a social media event where you compete against others, posting videos of your blasting skills for a chance to win amazing Nerf prizes!
 
 
-<img class="cover-image" src="{base}/images/posts/20241213CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241213CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ### 🎄 Spread Holiday Cheer with Nerf Gifts
 With the holiday season in full swing, don't forget about our wide range of fun and festive gifts. From stocking stuffers to main presents, find something that will bring joy to everyone on your list! Plus, with our customizable product options, you can make gifts even more personalized.

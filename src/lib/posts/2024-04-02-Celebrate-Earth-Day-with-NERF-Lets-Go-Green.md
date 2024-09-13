@@ -21,7 +21,7 @@ April is a special month, not only because it brings warmer weather and blooming
 1. Earth Day is the largest environmental event in the world, inspiring more than one billion people to take part in activities that support environmental protection.
 2. The first Earth Day in 1970 gave a voice to an emerging public consciousness about the state of our planet. Today, Earth Day is celebrated by over a billion people around the globe, making it the largest civic event in the world.
 
-<img class="cover-image" src="{base}/images/posts/20240402CelebrateEarthDaywithNERFLetsGoGreen_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240402CelebrateEarthDaywithNERFLetsGoGreen_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 3. By participating in Earth Day events and activities, you can join a global network of individuals working together for positive change on issues like climate change, waste reduction, and conservation.
 

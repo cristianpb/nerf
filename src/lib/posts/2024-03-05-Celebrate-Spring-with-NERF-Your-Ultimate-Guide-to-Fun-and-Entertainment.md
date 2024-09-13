@@ -26,7 +26,7 @@ Get ready for an epic battle as we host our very own NERF Wars event! Gather you
 ## **NERF Blaster Showcase (March 1-10)**
 
 
-<img class="cover-image" src="{base}/images/posts/20240305CelebrateSpringwithNERFYourUltimateGuidetoFunandEntertainment_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240305CelebrateSpringwithNERFYourUltimateGuidetoFunandEntertainment_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 From the classic NERF guns we all know and love to the latest high-tech blasters, you'll be blown away by the amazing selection of NERF weapons on display throughout our store during this special event. Don't miss your chance to see these awesome toys up close and prepare for the ultimate NERF battle!
 

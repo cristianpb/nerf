@@ -26,7 +26,7 @@ Nerf has a variety of blasters that use foam darts made from recycled materials!
 Invite your friends and family over for a fun Nerf event, but make sure it's eco-friendly too! Here are some tips:
 * Encourage carpooling or using public transportation to minimize emissions.
 
-<img class="cover-image" src="{base}/images/posts/20240412CelebrateEarthDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240412CelebrateEarthDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 * Serve eco-friendly snacks, such as fruits, veggies, or homemade treats using locally sourced ingredients.
 * Clean up any Nerf darts that end up outdoors and properly dispose of used batteries.

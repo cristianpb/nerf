@@ -25,7 +25,7 @@ Get ready for an adrenaline-pumping day of friendly competition with our Super S
 
 ## NERF Superhero Week (April 25th - May 1st)
 
-<img class="cover-image" src="{base}/images/posts/20240429UnleashYourInnerSuperherowithNERFThisApril29thandBeyond_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240429UnleashYourInnerSuperherowithNERFThisApril29thandBeyond_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 During NERF Superhero Week, we're inviting fans of all ages to embrace their inner superheroes and engage in epic battles using only the finest NERF weaponry. Throughout this week, you can join local events, participate in online challenges, and share your experiences on social media for a chance to win limited-edition NERF swag.

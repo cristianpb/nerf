@@ -23,7 +23,7 @@ In our modern world, who says you can't defend your territory on your own turf? 
 ## 2. Attend a NERF Melee Event 
 Why not join in on a local or regional NERF event? You can connect with other NERF enthusiasts, learn new tricks and techniques from veteran players, and participate in larger-scale battles that will truly test your blasting skills! A simple search online should give you plenty of options for events during this time.
 
-<img class="cover-image" src="{base}/images/posts/20240705CelebratingNERFDayUnleashYourInnerBlasterWithTheseExcitingActivities_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240705CelebratingNERFDayUnleashYourInnerBlasterWithTheseExcitingActivities_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## 3. Try Out New Blasters 

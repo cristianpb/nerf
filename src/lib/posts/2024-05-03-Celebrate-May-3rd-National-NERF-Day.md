@@ -23,7 +23,7 @@ National NERF Day was established to highlight the impact and popularity of the 
 
 ## How to Celebrate National NERF Day
 
-<img class="cover-image" src="{base}/images/posts/20240503CelebrateMay3rdNationalNERFDay_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240503CelebrateMay3rdNationalNERFDay_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 The best way to celebrate National NERF Day is by grabbing your favorite NERF blaster and engaging in an exciting battle with friends, family, or coworkers. With a wide array of products available, there's something for everyone - from rapid-fire machines to high-performance dart blasters.

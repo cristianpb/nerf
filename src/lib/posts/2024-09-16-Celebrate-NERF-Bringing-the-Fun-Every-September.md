@@ -25,7 +25,7 @@ This year, we're extending the celebration to a whole week – from September 16
 
 Some ideas for your Celebrate NERF Week include:
 
-<img class="cover-image" src="{base}/images/posts/20240916CelebrateNERFBringingtheFunEverySeptember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240916CelebrateNERFBringingtheFunEverySeptember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 1. Organize a Nerf war game with your neighbors or coworkers. Set up obstacles and create teams to make it more challenging and fun!

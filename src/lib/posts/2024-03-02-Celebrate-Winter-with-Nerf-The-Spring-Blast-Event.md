@@ -26,7 +26,7 @@ We've got some exciting surprises in store for our Nerf enthusiasts. Here's what
 3. **Cosplay Competition**: Get ready to show off your cosplay skills by dressing up as your favorite Nerf character, be it a superhero or an iconic toy soldier. The best cosplayers will win amazing prizes and the opportunity to shine on social media.
 4. **Meet & Greet with Nerf Legends**: Get an exclusive chance to meet iconic Nerf legends, get their autographs, and take photos with them. This is your time to be part of the action, up close and personal!
 
-<img class="cover-image" src="{base}/images/posts/20240302CelebrateWinterwithNerfTheSpringBlastEvent_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240302CelebrateWinterwithNerfTheSpringBlastEvent_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 5. **Food & Fun**: Enjoy a variety of food stalls offering your favorite snacks, meals, and drinks. Apart from this, indulge in games like Nerf bowling, paintball, and other engaging activities designed for ultimate fun.
 6. **Special Discounts & Offers**: Avail yourself of exclusive discounts on the latest Nerf gear and accessories during our Spring Blast event. Be sure to load up on new toys before they run out!

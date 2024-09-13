@@ -28,7 +28,7 @@ Hey there, fellow NERF enthusiasts! It's time to gear up and get ready for some 
 ## New NERF Releases Coming Soon!
 
 
-<img class="cover-image" src="{base}/images/posts/20240621CelebrateSummerwithNERFGetReadyforFunintheSun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240621CelebrateSummerwithNERFGetReadyforFunintheSun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Are you ready to upgrade your arsenal? Get ready for some mind-blowing new releases dropping throughout the summer, including:
 

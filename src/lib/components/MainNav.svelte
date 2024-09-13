@@ -16,7 +16,7 @@
 	
   <NavBrand href="/">
     <img src="{base}/favicon.png" class="me-3 h-6 sm:h-9" alt="{siteTitle}" />
-    <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Flowbite</span>
+    <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">{siteTitle}</span>
   </NavBrand>
   <NavHamburger  />
 	<NavItems />

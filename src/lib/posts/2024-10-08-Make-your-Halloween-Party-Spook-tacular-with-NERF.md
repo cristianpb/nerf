@@ -15,7 +15,7 @@ excerpt: Check out how heading links work with this starter in this post.
 </script>
 
 
-<img class="cover-image" src="{base}/images/posts/20241008MakeyourHalloweenPartySpooktacularwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241008MakeyourHalloweenPartySpooktacularwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 There's nothing scarier than a fully loaded NERF blaster, especially when it comes to hosting the ultimate Halloween party. From October 1st to November 30th (or in time for your spooky celebration on October 8th

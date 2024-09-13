@@ -22,7 +22,7 @@ Are you ready for some fun and excitement? Wait no more, because February is pac
 So get ready to mark your calendars and gear up for the following events:
 
 
-<img class="cover-image" src="{base}/images/posts/20240223GetReadyforFunwithNERFExcitingEventsinFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240223GetReadyforFunwithNERFExcitingEventsinFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 1. **NERF-Themed Birthday Parties:** Celebrate someone's special day with a splendid NERF party! Create an atmosphere of amusement, laughter, and excitement where everyone can participate in various games, challenges, and blasting sessions.
 2. **NERF Challenge Weekend:** This exciting weekend event will feature numerous competitions, tournaments, and challenges for NERF enthusiasts worldwide! From individual showdowns to team events, there's something for everyone.

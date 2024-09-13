@@ -25,7 +25,7 @@ On February 6th, people around the world participate in National Wear Red Day to
 
 ## **NERF Birthday - February 18th**
 
-<img class="cover-image" src="{base}/images/posts/20240206UnleashYourInnerSuperherowithNERFinFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240206UnleashYourInnerSuperherowithNERFinFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 Did you know that NERF turned 50 last year? That's right! On February 18th, we celebrate the birthday of every NERF enthusiast's favorite brand. Join in on the festivities by sharing your best NERF memories and showcasing your NERF arsenal on social media using the hashtag #NERF50. Don't forget to tag us, too!

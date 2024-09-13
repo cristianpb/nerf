@@ -3,28 +3,18 @@
 	import { navItems } from '$lib/config';
 	import NavItems from './NavItems.svelte';
   import { base } from '$app/paths';
+  import { Footer, FooterLinkGroup, FooterLink, ImagePlaceholder, TextPlaceholder, Skeleton, FooterCopyright } from 'flowbite-svelte';
 </script>
 
-<footer>
-	<nav>
-		<ul>
-			<li>
-        <a href="{base}/api/rss.xml" data-sveltekit-reload>RSS</a>
-			</li>
-			<li>
-        <a href="{base}/">Home</a>
-			</li>
-		</ul>
-	</nav>
-	<nav>
-    <ul>
+<Footer class="mt-4 p-4 bg-white border-t border-gray-200 shadow  dark:bg-gray-800 dark:border-gray-600">
+  <div class="sm:flex sm:items-center sm:justify-between">
+    <FooterCopyright href="/" by="{siteAuthor}" year={new Date().getFullYear()} />
+    <FooterLinkGroup ulClass="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
       {#each navItems as page}
-        <a href={base}{page.route}>
-          {page.title}
-        </a>
+        <FooterLink href={base}{page.route}>{page.title}</FooterLink>
       {/each}
-    </ul>
-	</nav>
+      <FooterLink href="{base}/api/rss.xml" data-sveltekit-reload>RSS</FooterLink>
+    </FooterLinkGroup>
+  </div>
+</Footer>
 
-	<p>&copy;{new Date().getFullYear()} {siteAuthor}</p>
-</footer>

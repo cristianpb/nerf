@@ -22,7 +22,7 @@ Here are some ideas to help you celebrate Earth Day with NERF:
 1. 🌎 *Eco-Warriors*: Organize a NERF battle with your friends, but make it a green event! Encourage everyone to bring reusable water bottles and snacks in resealable bags or containers. After the fun is done, clean up the area before leaving to ensure our parks stay beautiful for years to come.
     + **Pro Tip - Upcycle**: Turn old t-shirts or socks into DIY bandanas or headbands to use as arm protection during your NERF battle. This way, you're reusing clothing that might have ended up in the trash and giving it a second life!
 
-<img class="cover-image" src="{base}/images/posts/20240423CelebrateEarthDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240423CelebrateEarthDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 2. 🌲 *Nature Hike & Tag*: Plan a nature hike with your friends or family, but make it more exciting by turning it into a NERF tag game! Tag your friends with NERF darts as you walk along the trail, making sure not to disturb any wildlife or the environment.
 3. 💚 *Biodegradable Dart Challenge*: Try out NERF's new **biodegradable** darts (available in specific blasters) and create a challenge for yourself or with friends. See who can hit a target from the furthest distance, or test your accuracy with a timed drill.

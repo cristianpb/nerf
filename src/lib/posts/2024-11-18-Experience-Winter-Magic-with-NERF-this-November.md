@@ -29,7 +29,7 @@ Experience the thrill of snowball fights, curling, ice hockey, and skiing with o
 * **Skiing Challenge:** Ski down the winter slopes using our NERF skis, dodging obstacles and reaching the finish line as quickly as possible!
 
 
-<img class="cover-image" src="{base}/images/posts/20241118ExperienceWinterMagicwithNERFthisNovember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241118ExperienceWinterMagicwithNERFthisNovember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ### What can you expect at Nerfathlon:
 * Special themed playing areas to bring your winter dreams to life

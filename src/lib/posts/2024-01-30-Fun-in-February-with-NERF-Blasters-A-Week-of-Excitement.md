@@ -25,7 +25,7 @@ Challenge yourself or join a team to compete in our daily Target Practice Challe
 
 <h2 id="event3">Event 3: NERF Trivia Night</h2>
 
-<img class="cover-image" src="{base}/images/posts/20240130FuninFebruarywithNERFBlastersAWeekofExcitement_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240130FuninFebruarywithNERFBlastersAWeekofExcitement_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Do you know everything there is to know about NERF blasters? Prove it on February 5th! Gather your team and join us for an epic NERF trivia night. You might even get a chance to win special edition blasters during the event!
 

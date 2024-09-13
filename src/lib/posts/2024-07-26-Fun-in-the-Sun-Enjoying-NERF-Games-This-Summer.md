@@ -22,7 +22,7 @@ Summer is all about having fun and enjoying the great outdoors. What better way 
 Celebrate National NERF Gun Day on July 26th by hosting a friendly competition in your backyard or local park! Gather a group of friends, family, or neighbors and challenge each other to see who can score the most points. You can also use this opportunity to introduce newbies to the world of NERF games.
 
 
-<img class="cover-image" src="{base}/images/posts/20240726FunintheSunEnjoyingNERFGamesThisSummer_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240726FunintheSunEnjoyingNERFGamesThisSummer_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 **Throughout the Summer (June-August)**
 

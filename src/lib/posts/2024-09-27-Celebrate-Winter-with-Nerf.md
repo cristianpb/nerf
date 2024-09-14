@@ -33,7 +33,7 @@ September 27th is one special day to celebrate the onset of winter and having fu
 
 Make sure you're fully equipped for winter Nerf battles by checking out these essentials:
 
-<img class="cover-image" src="{base}/images/posts/20240927CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240927CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 - A variety of NERF guns to suit every player's preferences, from blasters to megas

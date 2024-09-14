@@ -23,7 +23,7 @@ NERF, that iconic brand known for its innovative foam-dart blasters and sports e
 NERF activities are not only fun but also encourage teamwork, strategy, and camaraderie. Plan a NERF-themed get-together with your family or friends, or bond with your kids by participating in NERF games and challenges together. Not only will you have a blast, but you'll also be fostering those valuable relationships.
 
 
-<img class="cover-image" src="{base}/images/posts/20240308CelebrateInternationalWomensDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240308CelebrateInternationalWomensDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## 2. Hit the Gym with NERF Workouts
 NERF workouts are an excellent way to stay active while having loads of fun. From NERF HIIT sessions to partner training with foam-dart blasters, there's a workout for almost every fitness level. Search for NERF-inspired workout routines on YouTube or seek advice from local trainers who specialize in NERF-based workouts.

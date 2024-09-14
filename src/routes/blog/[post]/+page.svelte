@@ -1,5 +1,6 @@
 <!-- This file renders each individual blog post for reading. Be sure to update the svelte:head below -->
 <script>
+  import { Heading, P, Badge } from 'flowbite-svelte';
   import { base } from '$app/paths';
 	export let data;
 
@@ -23,41 +24,56 @@
 	<!-- <meta name="twitter:image" content="https://yourdomain.com/image_path" /> -->
 </svelte:head>
 
-<article class="post">
-	<!-- You might want to add an alt frontmatter attribute. If not, leaving alt blank here works, too. -->
-	<img
-		class="cover-image"
-    src={base}{coverImage}
-		alt=""
-		style="aspect-ratio: {coverWidth} / {coverHeight};"
-		width={coverWidth}
-		height={coverHeight}
-	/>
 
-	<h1>{title}</h1>
+<div class="px-4">
+  <div class="flex">
+    <div class="flex-auto w-0 md:w-4/12"></div>
+    <div class="flex-auto w-full md:w-4/12">
 
-	<div class="meta">
-		<b>Published:</b>
-		{date}
-		<br />
-		<b>Updated:</b>
-		{updated}
-	</div>
+      <img
+        class="inline object-contain w-full md:w-full my-4"
+        src={base}{coverImage}
+        alt=""
+        style="aspect-ratio: {coverWidth} / {coverHeight};"
+        width={coverWidth}
+        height={coverHeight}
+        />
+        <Heading tag="h1" class="text-nerforange mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">{title}</Heading>
 
-	<svelte:component this={PostContent} />
+          <P class="pb-4" size="xs">
+            <b>Published:</b>
+            {date}
+            <br />
+            <b>Updated:</b>
+            {updated}
+          </P>
 
-	{#if categories}
-		<aside class="post-footer">
-			<h2>Posted in:</h2>
-			<ul class="post-footer__categories">
-				{#each categories as category}
-					<li>
-            <a href="{base}/blog/category/{category}/">
-							{category}
-						</a>
-					</li>
-				{/each}
-			</ul>
-		</aside>
-	{/if}
-</article>
+
+          <div class="text-justify prose dark:prose-invert max-w-full prose-xl">
+            <svelte:component this={PostContent} />
+          </div>
+
+
+
+          {#if categories}
+            <div class="my-4">
+              <Heading tag="h2" class="text-nerforange mb-4" customSize="text-4xl font-extrabold  md:text-4xl">Posted in:</Heading>
+              <ul class="post-footer__categories">
+                {#each categories as category}
+                  <li>
+                    <Badge large>
+                      <a class="capitalize" href="{base}/blog/category/{category}/">
+                        {category}
+                      </a>
+                    </Badge>
+                  </li>
+                {/each}
+              </ul>
+            </div>
+          {/if}
+
+
+    </div>
+    <div class="flex-auto w-0 md:w-4/12"></div>
+  </div>
+</div>

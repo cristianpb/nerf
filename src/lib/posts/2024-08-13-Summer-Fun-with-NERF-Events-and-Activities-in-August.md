@@ -29,7 +29,7 @@ Are you dreading the end of summer and returning to school? Why not make it a li
 ### **Throughout August: National Water Games**
 Stay cool this summer by adding water into your NERF battles! Organize water balloon fights, water gun wars, and water-soaked nerf challenges for the ultimate water fun experience. Share your photos using #NERFWaterWars.
 
-<img class="cover-image" src="{base}/images/posts/20240813SummerFunwithNERFEventsandActivitiesinAugust_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240813SummerFunwithNERFEventsandActivitiesinAugust_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## NERF Activities & Challenges

@@ -23,7 +23,7 @@ As a brand committed to reducing our ecological footprint, we have been working 
 
 1. **Sustainable Materials** - We're always seeking ways to replace conventional materials with eco-friendly alternatives. Our R&D team is continuously researching and testing innovative, biodegradable materials that can be used in our foam darts, blasters, and packaging.
 
-<img class="cover-image" src="{base}/images/posts/20240426CelebrateEarthDaywithNerF🌎_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240426CelebrateEarthDaywithNerF🌎_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 2. **Recyclable Packaging** ♻️ - As of this year, all NerF packaging comes with recycling instructions to help reduce waste. We're dedicated to reducing the amount of plastic we use and continually exploring new ways to minimize our impact on the environment.

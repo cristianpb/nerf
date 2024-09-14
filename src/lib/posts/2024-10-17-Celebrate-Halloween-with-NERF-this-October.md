@@ -24,7 +24,7 @@ NERF blasters are a fun way to engage in a safe and thrilling game during Hallow
 ## Get Ready for Spooky Target Practice with NERF Products 
 
 
-<img class="cover-image" src="{base}/images/posts/20241017CelebrateHalloweenwithNERFthisOctober_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241017CelebrateHalloweenwithNERFthisOctober_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Get into the festive spirit by practicing your aim using NERF's exciting and innovative line of products. Test your accuracy, speed, and teamwork as you engage in thrilling games like Zombie Invasion or Monster Mayhem.
 

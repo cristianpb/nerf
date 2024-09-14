@@ -33,7 +33,7 @@ March is a special time of the year. As we mark the end of winter and welcome sp
   March Madness, or the NCAA Division I Men's Basketball Tournament, is an annual competition held in the United States during the month of March. Use this opportunity to have your own mini NERF basketball competition, either individually or with a group of friends! With a variety of NERF basketball toys available, you can recreate some of the thrilling moments from the tournament in your very own backyard.
 
 
-<img class="cover-image" src="{base}/images/posts/20240325CelebrateSpringwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240325CelebrateSpringwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
   ---
 </article>

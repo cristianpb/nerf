@@ -27,7 +27,7 @@ Bring out your water balloons, and get ready to have a grand time with your fami
 
 Turn your backyard into a battleground with Nerf wars. Whether you're a beginner or a seasoned player, Nerf guns offer endless opportunities for fun and excitement. Assemble teams and create rules beforehand to ensure everyone is on the same page. Remember, always prioritize safety!
 
-<img class="cover-image" src="{base}/images/posts/20240823CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240823CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ### 3. Winter Themed DIY Crafts

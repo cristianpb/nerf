@@ -30,7 +30,7 @@ Unleash your inner monster with the highly anticipated NERF Monster Series, fill
 ### 🕸️ Marvel Super Heroes Ignite Series
 
 
-<img class="cover-image" src="{base}/images/posts/20241004PowerUpYourPartywithNERFOctoberExclusivesandEvents_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241004PowerUpYourPartywithNERFOctoberExclusivesandEvents_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Join forces with your favorite superheroes from the Marvel Universe, including Spider-Man, Iron Man, and Black Widow, with the exclusive Marvel Super Heroes Ignite Series blasters. These high-tech weapons will be available for a limited time only!
 

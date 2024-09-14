@@ -24,7 +24,7 @@ November is filled with amazing holidays like Diwali and Thanksgiving, and it's 
 Keep an eye out for the latest and greatest in NERF innovation. We've got some exciting new products hitting shelves that are guaranteed to keep you (and your family) entertained well into the holiday season.
   
 
-<img class="cover-image" src="{base}/images/posts/20241126UnleashYourInnerNERFerThisHolidaySeason_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241126UnleashYourInnerNERFerThisHolidaySeason_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ### **2. Holiday Gift Guide**
    

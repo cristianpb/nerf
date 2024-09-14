@@ -26,7 +26,7 @@ NERF, or National Entertainment Reserve Force, is a popular toy brand known for 
 Here are some ideas to help you celebrate NERF day in style:
 
 
-<img class="cover-image" src="{base}/images/posts/20241203CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241203CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 1. **Organize a NERF battle**: Invite your friends and family for a thrilling NERF war. Set up different obstacles, create teams, and engage in a friendly competition. Don't forget to make it as festive as possible!
 

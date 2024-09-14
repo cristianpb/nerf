@@ -28,7 +28,7 @@ Invite your loved ones over for a weekend full of NERF-inspired fun! Create team
 ### 2. Friendship Day NERF Challenge on February 15th 💪
 
 
-<img class="cover-image" src="{base}/images/posts/20240213CelebrateLoveandFriendshipwithNERFthisValentinesDayWeek_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240213CelebrateLoveandFriendshipwithNERFthisValentinesDayWeek_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Celebrate International Friendship Day on February 15th with a thrilling NERF challenge! Organize a friendly tournament at your local park, complete with a picnic and photo booth to capture the memories. The winning team gets to indulge in delicious desserts!
 

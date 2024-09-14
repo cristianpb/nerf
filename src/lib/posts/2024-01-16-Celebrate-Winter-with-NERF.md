@@ -23,7 +23,7 @@ Gather your friends and family for an epic battle in your own backyard or living
 Challenge your friends or family members to complete an obstacle course using NERF blasters. Set up cones, hurdles, and other fun challenges along the way to make it even more exciting. The first one to complete the course without missing a target wins!
 
 
-<img class="cover-image" src="{base}/images/posts/20240116CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240116CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ### NERF Family Game Night
 Keep everyone entertained on chilly winter nights with a family game night featuring your favorite NERF games like "Capture the Flag" or "Battleship." Serve up some tasty snacks and warm drinks to keep everyone cozy while they play.

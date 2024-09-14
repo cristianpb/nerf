@@ -29,7 +29,7 @@ Summer is in full swing, and there's no better time to take advantage of the war
    Take your NERF game on-the-go with a picnic-themed competition at your local park. Perfect for a day filled with fresh air, delicious snacks, and an exciting Nerf battle!
 
 
-<img class="cover-image" src="{base}/images/posts/20240826CelebrateSummerwithNERF🥳_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240826CelebrateSummerwithNERF🥳_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## Ready, Set, Play! 🎯
 

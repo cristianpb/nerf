@@ -21,7 +21,7 @@ So, grab your water balloons, fill them up, and get ready to NERF-up your water 
 
 1. **NERF Rival Phantom Corps MXVII-10K Blaster**: This powerful blaster can fire up to 10 rounds before needing a reload, perfect for quick strikes during your water balloon battle! The high capacity, rapid-fire design makes it the ideal choice for those looking for an edge in their water warfare.
 
-<img class="cover-image" src="{base}/images/posts/20240802CelebrateNationalWatermelonDaywithNERFBlasters_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240802CelebrateNationalWatermelonDaywithNERFBlasters_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
    
 2. **NERF N-Strike Elite Retaliator Blaster**: With this Retaliator blaster, you can customize your experience by adding different barrels, darts, and accessories! It's easy to use and can fire up to 90 feet (27 meters) with darts. Imagine how far a water balloon would fly!

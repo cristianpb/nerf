@@ -24,7 +24,7 @@ Our annual NERF Fest is back and better than ever, bringing together enthusiasts
 
 2. **Workshops and Demonstrations**: Learn the ins and outs of building, modifying, and customizing your NERF gear from our expert team. Discover new techniques to improve your game and impress your opponents.
 
-<img class="cover-image" src="{base}/images/posts/20240815NERFUpYourSummerFunwithExcitingEventsinAugust_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240815NERFUpYourSummerFunwithExcitingEventsinAugust_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 3. **NERF Olympics**: Test your skills in this Olympic-style event where you'll compete in a variety of fun-filled challenges. Showcase your accuracy, agility, and strategic thinking on the road to becoming the ultimate NERF champion!

@@ -22,7 +22,7 @@ During the celebration, keep your eyes peeled for some exciting new releases and
 ## Exciting Events (May 14th)
 On May 14th, the celebration reaches its peak with some fantastic events. We have prepared a lineup of digital and physical activities for NERF enthusiasts around the world:
 
-<img class="cover-image" src="{base}/images/posts/20240514CelebrateNERFonMay2023UnleashingExcitementandFun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240514CelebrateNERFonMay2023UnleashingExcitementandFun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 1. Online Challenges: Test your skills in an exciting array of online challenges, hosted by top NERF influencers and celebrity endorsements. Show off your shooting prowess to win incredible prizes! 
 2. LIVE Demonstrations: Witness live demonstrations of the latest NERF products, including world-firsts and sneak peeks at upcoming releases. You'll be able to ask questions directly to our team.

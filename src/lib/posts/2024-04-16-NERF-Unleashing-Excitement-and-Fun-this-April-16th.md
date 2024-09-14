@@ -31,7 +31,7 @@ Experience an all-out NERF battle in this thrilling zone. Split into teams and s
 
 **Bonus**: Every participant gets a **free NERF blaster** on entry, no matter what you have to be equipped for the war! 
 
-<img class="cover-image" src="{base}/images/posts/20240416NERFUnleashingExcitementandFunthisApril16th_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240416NERFUnleashingExcitementandFunthisApril16th_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## Pump Up Your Reflexes

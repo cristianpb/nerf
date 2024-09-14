@@ -30,7 +30,7 @@ Make sure to follow these NERF safety tips:
 3. Keep an eye on younger players and ensure that they are using age-appropriate blasters and foam ammunition.
 
 
-<img class="cover-image" src="{base}/images/posts/20241112HaveaBlastThisNovemberwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241112HaveaBlastThisNovemberwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## ☑ Indoor NERF Fun
 

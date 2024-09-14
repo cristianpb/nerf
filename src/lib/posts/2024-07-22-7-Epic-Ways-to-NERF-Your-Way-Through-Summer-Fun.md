@@ -20,7 +20,7 @@ Are you ready for some summer action? Look no further than these seven epic ways
 1. **NERF War in the Park:** Gather your friends, family or neighborhood and head to a local park or backyard and set up an all-out NERF war battlefield. Divide into teams or play free-for-all and compete for the title of "Ultimate NERF Champion."
 2. **NERF Treasure Hunt:** Create a scavenger hunt or treasure hunt around your house, in your backyard or at a nearby park using NERF balls as clues or tokens. This activity will keep your little ones entertained for hours.
 
-<img class="cover-image" src="{base}/images/posts/202407227EpicWaystoNERFYourWayThroughSummerFun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/202407227EpicWaystoNERFYourWayThroughSummerFun_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 3. **Birthday Bash with a Twist:** Throw the ultimate NERF birthday party by creating different game stations like "NERF Basketball," "Human Target" and "Foam Dart Volleyball." Don't forget the piñata filled with even more NERF surprises!
 4. **Water Wars:** Combine two summer favorites: water balloons and NERF foam darts by creating a full-on water battle. Fill some of your NERF balls with water and see who can get their opponents soaked while staying dry themselves.

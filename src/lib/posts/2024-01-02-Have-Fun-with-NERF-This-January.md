@@ -22,7 +22,7 @@ Do you and your friends love getting together for epic NERF battles? Why not tak
 
 ## NERF Family Fun Night
 
-<img class="cover-image" src="{base}/images/posts/20240102HaveFunwithNERFThisJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240102HaveFunwithNERFThisJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Sometimes, getting together as a family is just what you need to warm your heart during these cold months. Set up the living room with obstacles or use a small outdoor space, then pick up some official NERF sport Blasters like the NERF RIVAL Phantom Corps Zeus MXVII-1000 Blaster and invite the whole family for an evening of friendly competition!
 

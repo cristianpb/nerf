@@ -20,7 +20,7 @@ This year, Winter officially begins on November 29th, and what better way to cel
 The NERF SnowBallmaker turns ordinary snow into a volley of soft and squishy snowballs with its innovative design. Simply pack the ball, pull back the handle, and watch as it forms perfect snowballs for your winter battle. This year, you'll be the envy of the whole neighborhood when you wield your NERF SnowBallmaker in a classic snowball fight!
 
 
-<img class="cover-image" src="{base}/images/posts/20241129CelebrateWinterwithNERFonNovember29_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241129CelebrateWinterwithNERFonNovember29_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## Stock Up on NERF Supplies for Exclusive Offers
 In celebration of Winter, NERF is offering discounted bundles and special offers throughout November 28-30. Be sure to visit your local sporting goods store or the NERF online shop to stock up before the big day. With a range of foam blasters, darts, and accessories available, there's no better time to upgrade your collection.

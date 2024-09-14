@@ -25,7 +25,7 @@ This year on National Siblings Day, NERF is offering a special double pack! Get 
 
 **#October18th**: **NERF Night at Your Local Ice Rink**
 
-<img class="cover-image" src="{base}/images/posts/20241011CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241011CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 Come join us for an evening of skating and NERF-inspired games! This fun-filled event is a great chance to meet other fans, make new friends, and show off your NERF skills on the ice. We'll have special giveaways and contests throughout the night, so be sure to stick around until the end.

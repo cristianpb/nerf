@@ -24,7 +24,7 @@ On January 26th and throughout the month of January, check out some of these ama
 # **NERF Battle Royale (Location A)**
 Organize your troops for an exciting day of tagging, ducking, and dodging foam bullets. At this event, you can expect friendly teams to face off in an adrenaline-pumping competition that is sure to bring out the warrior within each participant!
 
-<img class="cover-image" src="{base}/images/posts/20240126UnleashYourInnerWarriorNERFEdition_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240126UnleashYourInnerWarriorNERFEdition_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 # **NERF Family Fun Day (Location B)**

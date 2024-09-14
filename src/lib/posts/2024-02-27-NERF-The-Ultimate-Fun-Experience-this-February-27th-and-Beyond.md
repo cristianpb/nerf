@@ -24,7 +24,7 @@ Mark your calendars for an epic showdown, as NERF warriors from across the globe
 Look out for various contests, giveaways, and promotions on social media platforms such as Facebook, Instagram, and Twitter. You might even win some fantastic NERF swag to enhance your NERF battles!
 <br>
 
-<img class="cover-image" src="{base}/images/posts/20240227NERFTheUltimateFunExperiencethisFebruary27thandBeyond_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240227NERFTheUltimateFunExperiencethisFebruary27thandBeyond_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## Why NERF Matters in February and Beyond
 <br>

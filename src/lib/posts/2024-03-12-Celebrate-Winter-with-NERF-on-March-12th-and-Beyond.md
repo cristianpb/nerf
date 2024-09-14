@@ -21,7 +21,7 @@ March 12th is just around the corner, and you know what that means - it's time t
 With the latest NERF Rival Ascend game mode, you can take your NERF battles to new heights! Combining intense strategy with adrenaline-pumping action, this innovative addition to NERF games will keep you on your toes as you and your team fight to reach the top.
 
 
-<img class="cover-image" src="{base}/images/posts/20240312CelebrateWinterwithNERFonMarch12thandBeyond_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240312CelebrateWinterwithNERFonMarch12thandBeyond_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## 🎮 Upcoming NERF Video Game Releases
 Get your game face on, because NERF is bringing even more excitement to your screens! Keep an eye out for new video game releases featuring everyone's favorite foam-flying fun.

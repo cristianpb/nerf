@@ -31,7 +31,7 @@ Throughout Memorial Day weekend, we have lined up a variety of events to keep ev
 
 * **10 AM -** Wake up and join us for a scenic hike along the NerF Trail. Take in the stunning views while getting energized for the day ahead!
 
-<img class="cover-image" src="{base}/images/posts/20240531CelebrateMemorialDayWeekendwithNerF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240531CelebrateMemorialDayWeekendwithNerF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 * **3 PM -** Don't miss our Ultimate Water Balloon Battle at the NerF Fields. It's going to be a soaking good time!
 

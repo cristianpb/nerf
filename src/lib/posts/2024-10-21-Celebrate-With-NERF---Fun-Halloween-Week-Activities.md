@@ -16,7 +16,7 @@ excerpt: Check out how heading links work with this starter in this post.
 
 
 
-<img class="cover-image" src="{base}/images/posts/20241021CelebrateWithNERFFunHalloweenWeekActivities_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241021CelebrateWithNERFFunHalloweenWeekActivities_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 🎃 It's October, and you know what that means? Pumpkins, costumes, and most importantly – it's time to celebrate with NERF during the spooky season! From October 20th to October 26th, we have planned a week full of Halloween-themed events for everyone!
 

@@ -22,7 +22,7 @@ Who doesn't love pizza? And what better way to spend a winter evening than enjoy
 ## Groundhog Day - February 2
 Whether you believe in the prognostications of our furry friends or not, Groundhog Day is a great opportunity to get outside, have some fun, and celebrate winter before it's too late. Set up a NERF target for your little groundhogs to chase and shoot at!
 
-<img class="cover-image" src="{base}/images/posts/20240209CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240209CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## Winter Olympics - February 4-20 (usually)

@@ -24,7 +24,7 @@ Here are some exciting ways you can enjoy NERF water fun with your friends or fa
 ### Water Balloon Battle Royale
 Make use of those water balloons lying around! Divide into two teams and strategize your way to victory. Dodge, duck, dip, dive, and dodge your opponents' water balloons while trying to hit their targets. Remember - no one is safe from this soaking challenge!
 
-<img class="cover-image" src="{base}/images/posts/20240219NERFandValentinesDaySpreadtheLovewithWaterWarfare_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240219NERFandValentinesDaySpreadtheLovewithWaterWarfare_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ### Zombie Apocalypse Sprinkler Tag
 Get your heart racing with this adrenaline-pumping game of survival. Team up and make a plan to face the horde of NERF-armed zombies rushing at you. Don't get caught, or else you’ll become part of their crew! Protect yourself by using water streams from automatic sprinklers, making for a slip-and-slide style obstacle course.

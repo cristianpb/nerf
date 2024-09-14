@@ -24,7 +24,7 @@ January is shaping up to be a big month for new NERF releases! Keep an eye out f
 What better way to showcase your NERF skills than by participating in some friendly competition? Throughout January, NERF battles and tournaments will be popping up all around the world, offering enthusiasts a chance to test their mettle against others and earn bragging rights as top blasters. Keep an eye on local community events or join online forums to find upcoming battles near you.
 
 
-<img class="cover-image" src="{base}/images/posts/20240108UnleashYourCreativitywithNERFThisJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240108UnleashYourCreativitywithNERFThisJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## DIY NERF Creations
 For those with a knack for creativity, this January is the perfect time to put your skills to work! From customizing existing Nerf blasters to building entirely new ones from scratch, there are countless ways to express yourself through DIY NERF crafts. Join online communities or watch tutorial videos to learn how to make the most of your NERF experience with unique, personalized creations.

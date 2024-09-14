@@ -25,7 +25,7 @@ Spring has sprung, and what better way to celebrate the renewal of life than wit
 4. **Stress Relief**: With all the hustle and bustle of daily life, NERF battles offer a perfect chance to disconnect from technology and responsibilities, and focus on pure, unadulterated fun.
 
 
-<img class="cover-image" src="{base}/images/posts/20240404CelebrateSpringwithNERFABlastfromthePast_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240404CelebrateSpringwithNERFABlastfromthePast_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## 🎈 Spring NERF Events
 

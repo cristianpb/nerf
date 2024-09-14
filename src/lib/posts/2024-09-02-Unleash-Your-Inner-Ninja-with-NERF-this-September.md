@@ -22,7 +22,7 @@ September is the perfect time to get active and have fun with friends and family
 Start off this action-packed month by celebrating ***NERF War Day*** on September 2nd! This unofficial holiday is the perfect excuse for you and your friends to organize a NERF war, battle it out in your neighborhood or local park, and have a blast doing so.
 
 
-<img class="cover-image" src="{base}/images/posts/20240902UnleashYourInnerNinjawithNERFthisSeptember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240902UnleashYourInnerNinjawithNERFthisSeptember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## **September NERF Challenge Week (September 13th - 19th)**
 

@@ -28,7 +28,7 @@ Are you up for an epic battle against NERF enthusiasts from around the globe? Th
 Celebrate May 17th with excitement on [**International Day of Nerf**](https://www.nationaldaycalendar.com/national-nerf-day-usa/). This day is dedicated to the joy, camaraderie, and entertainment that the iconic NERF brand has brought into our lives. Share your favorite NERF moments on social media with the hashtag #InternationalDayOfNerf and join a global celebration of play!
 
 
-<img class="cover-image" src="{base}/images/posts/20240517CelebrateNERFDiscoverExcitingActivitiesinMay_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240517CelebrateNERFDiscoverExcitingActivitiesinMay_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ### **May 22: World Bunker Building Day**
 

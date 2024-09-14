@@ -29,7 +29,7 @@ We all have our dreams, but sometimes we need a reminder to chase them. Let NERF
 
 NERF loves puppies, and we bet you do too! During National Puppy Week, join in on the fun by posting pictures of your furry friends playing with their favorite NERF toys on social media using #NERFPuppyWeek. As a special treat, you might just win some exclusive NERF goodies for your beloved pup!
 
-<img class="cover-image" src="{base}/images/posts/20240112GetReadytoNERFThisWinterSeason_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240112GetReadytoNERFThisWinterSeason_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ---

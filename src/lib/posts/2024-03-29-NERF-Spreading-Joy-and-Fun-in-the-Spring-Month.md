@@ -19,7 +19,7 @@ Spring is in the air, and what better way to celebrate than spending quality tim
 On March 29th, you can find exciting deals and discounts from NERF stores or online platforms. Get ready to indulge in some splurge-worthy shopping, as NERF gives you its best competitive prices! It's an excellent opportunity for both newbies and die-hard NERF fans to add more to their collections.
 ## Outdoor NERF Events during March 2023
 
-<img class="cover-image" src="{base}/images/posts/20240329NERFSpreadingJoyandFunintheSpringMonth_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240329NERFSpreadingJoyandFunintheSpringMonth_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 To celebrate Spring, NERF is hosting several outdoor events across various locations during the month of March. These events are perfect for bonding with friends and family while enjoying some friendly NERF wars! You'll be able to try out different NERF blaster models, compete in games, and win cool prizes. Keep an eye on their social media pages (such as Facebook, Twitter, and Instagram) or visit their official website for schedules and locations of these events.
 ## New NERF Releases in Spring 2023

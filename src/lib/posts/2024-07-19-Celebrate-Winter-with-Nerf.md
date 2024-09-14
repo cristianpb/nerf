@@ -32,7 +32,7 @@ The Nerf Winter Wonderland edition brings a touch of holiday spirit to your favo
 3. **Snowball Fight fun**: With winter-themed ammunition, you can experience snowball fights like never before. No more soggy, wet snow – just the thrill of a foam dart battle right in the comfort of your home!
 
 
-<img class="cover-image" src="{base}/images/posts/20240719CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240719CelebrateWinterwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 **Top Moments from July 19th, Nerf Winter Wonderland Launch Day:**
 

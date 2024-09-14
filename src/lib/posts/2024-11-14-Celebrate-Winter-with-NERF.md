@@ -27,7 +27,7 @@ Treat someone special this holiday season with a NERF gift set! Perfect for any 
 
 What better way to celebrate winter than with a friendly snowball fight or NERF battle? Gather your family, friends, or colleagues and plan an outdoor event amidst the winter wonderland. With various blaster styles such as the NERF Elite 2.0 Series, you can create teams and play different games like Capture the Flag or Mega Blaster Tag! Don't forget to dress warmly for this chilly adventure.
 
-<img class="cover-image" src="{base}/images/posts/20241114CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20241114CelebrateWinterwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## 3. Host a NERF Event at Your Local Community Center

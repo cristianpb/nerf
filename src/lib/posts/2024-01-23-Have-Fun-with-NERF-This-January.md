@@ -24,7 +24,7 @@ Take advantage of this day dedicated to those who love to fix, build, and create
 ## All Month Long: Join the NERF Challenge
 
 
-<img class="cover-image" src="{base}/images/posts/20240123HaveFunwithNERFThisJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240123HaveFunwithNERFThisJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Do you have what it takes to master the art of the NERF shot? Sign up for the January NERF Challenge and see how many targets you can take down with precision and skill. You'll earn bragging rights and be entered into a prize draw, so there's no excuse not to give it a try!
 

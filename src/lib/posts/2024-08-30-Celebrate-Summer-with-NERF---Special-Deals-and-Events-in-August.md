@@ -21,7 +21,7 @@ August is the perfect time to make the most of the summer sunshine and have some
 
 Make sure you check out the latest additions to the NERF family. With innovative blasters, darts, and accessories, there's always something new and exciting to explore.
 
-<img class="cover-image" src="{base}/images/posts/20240830CelebrateSummerwithNERFSpecialDealsandEventsinAugust_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240830CelebrateSummerwithNERFSpecialDealsandEventsinAugust_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## NERF Summer Sale

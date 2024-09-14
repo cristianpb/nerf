@@ -23,7 +23,7 @@ May 6th is a special day for all NERF enthusiasts as it marks the annual [NERF W
 2. **Fireside Chats**: Join the NERF community in virtual meetups and fireside chats led by NERF fans like [YouTube sensation Rhett Smith](https://www.youtube.com/channel/UCK0dPp1TzQOqKVuGx9jE5ZA). Get to know fellow enthusiasts, ask questions, and share your own NERF stories!
 3. **Global Scavenger Hunt**: Unleash your competitive spirit with a worldwide scavenger hunt that takes you on an adrenaline-pumping adventure. Solve clues, showcase your blasting skills, and compete for the ultimate NERF champion title!
 
-<img class="cover-image" src="{base}/images/posts/20240506CelebratetheNERFWeekExtravaganza_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240506CelebratetheNERFWeekExtravaganza_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 4. **Social Media Challenge**: Show off your NERF skills and creativity by participating in our #NERFWeekChallenge! Post a video or picture of you and your friends using NERF products and tag @Hasbro on Facebook, Instagram, TikTok, or Twitter. Don't forget to use the hashtag #NERFWeekChallenge to enter for a chance to win exciting prizes!
 5. **Special Deals**: Take advantage of incredible discounts, exclusive offers, and limited-time bundles during NERF Week. Stock up on your favorite blasters or discover new favorites at unbeatable prices!

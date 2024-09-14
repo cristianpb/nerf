@@ -26,7 +26,7 @@ Celebrate NERF Fan Day with fellow enthusiasts around the globe on May 28th. Org
 Watch out for exclusive NERF deals throughout May! Stock up on your favorite blasters or finally try that new NERF toy you've been eyeing. Don't miss out on these fantastic offers from major retailers and online stores.
 
 
-<img class="cover-image" src="{base}/images/posts/20240528MakeThisMayYourUltimateNERFAdventure_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240528MakeThisMayYourUltimateNERFAdventure_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## **May – Unleash Your Creativity**
 

@@ -30,7 +30,7 @@ It's time to celebrate everyone's favorite foam dart-blasting gadgets! Grab your
 What could be better than a good old-fashioned NERF war? How about a fantastic sale to stock up on all your favorite gear before the fun begins? Keep an eye out for exclusive discounts, special offers, and amazing deals throughout June. Don't miss your chance to get everything you need to make these summer memories last a lifetime!
 
 
-<img class="cover-image" src="{base}/images/posts/20240628GetReadytoNERFUpYourSummer_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240628GetReadytoNERFUpYourSummer_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ---
 

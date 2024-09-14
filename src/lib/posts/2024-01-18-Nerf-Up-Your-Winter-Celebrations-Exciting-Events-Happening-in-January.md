@@ -21,7 +21,7 @@ This winter, turn up the heat and celebrate with Nerf! With exciting events happ
 1. Hit the slopes with your friends and family for a day of snow-filled fun! Whether you're an experienced skier or just learning, there's nothing like enjoying the beauty and excitement of skiing or snowboarding on a crisp winter day. Make sure to pack your Nerf blasters for some post-skiing snowball fights—just be careful not to get hit with any errant projectiles while you're zipping down the slopes!
 2. Organize a Nerf-themed snowball fight in your local park, inviting friends, families, and neighbors alike to join in on the fun. Don't forget to have plenty of hot chocolate and snacks on hand for when everyone warms up by the fire afterward.
 
-<img class="cover-image" src="{base}/images/posts/20240118NerfUpYourWinterCelebrationsExcitingEventsHappeninginJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240118NerfUpYourWinterCelebrationsExcitingEventsHappeninginJanuary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 3. Show off your creativity and design skills by creating Nerf-inspired snow sculptures! Whether you opt for iconic blasters, foam darts, or Nerf mascot Perry the Platypus, let your artistic side shine through as you transform the snow into a winter wonderland of Nerf designs.
 

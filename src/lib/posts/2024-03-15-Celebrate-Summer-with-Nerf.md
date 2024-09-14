@@ -32,7 +32,7 @@ Designate specific targets and areas for your Nerf battle, such as "base camp" o
 
 ### 2. **Organize Nerf Tournaments**
 
-<img class="cover-image" src="{base}/images/posts/20240315CelebrateSummerwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240315CelebrateSummerwithNerf_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 Invite friends, family, or neighbors to participate in friendly (yet competitive) Nerf tournaments. You can set up a prize for the winner, such as a new Nerf blaster or a bundle of Nerf darts!

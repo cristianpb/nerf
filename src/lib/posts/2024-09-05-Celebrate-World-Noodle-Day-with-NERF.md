@@ -24,7 +24,7 @@ World Noodle Day is a global celebration of everyone's favorite slurpy, comforti
 To celebrate World Noodle Day with NERF, why not organize a Noodle Bowl Party? Invite your friends over for a fun-filled evening of noodle dishes and NERF battles. You can even have a "Noodle Off" competition to see who can make the best bowl of noodles. The winner gets bragging rights and a special prize – a new NERF blaster, of course!
 
 
-<img class="cover-image" src="{base}/images/posts/20240905CelebrateWorldNoodleDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240905CelebrateWorldNoodleDaywithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Nerf Lover's Day: A Day Dedicated to Fostering Fun with Foam
 

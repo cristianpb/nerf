@@ -24,7 +24,7 @@ For a limited time only, get your hands on our brand new March Madness Blaster! 
 ### 🎉 March Madness Sale
 
 
-<img class="cover-image" src="{base}/images/posts/20240323CelebrateSpringwithNERFMarchMadnessSpecialEdition_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240323CelebrateSpringwithNERFMarchMadnessSpecialEdition_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 It's a mad rush for discounts in our March Madness Sale! From March 20th to March 31st, take advantage of unbeatable offers on your favorite NERF toys, including exclusive deals on blasters and NERF balls. What are you waiting for? Start shopping and gear up for the ultimate NERF Battle!
 

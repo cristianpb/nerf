@@ -25,7 +25,7 @@ It's the perfect time to get out and enjoy the warm weather, sunshine, and endle
 4. **Refreshments and Rewards:** Keep your guests fueled with snacks like pretzels, popcorn, or crackers for in-between play sessions. Prizes like customized stickers, signed sports collectibles, or unique blasters can be awarded to the winning team.
 5. **Snapshots of Fun:** Hire a photographer or appoint a friend as the official event photographer to capture unforgettable moments during the NERF party. Share these pictures online or in an album for everyone to relive the fun later on.
 
-<img class="cover-image" src="{base}/images/posts/20240603CelebrateSummerwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240603CelebrateSummerwithNERF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 ## NERF Charity Challenge:

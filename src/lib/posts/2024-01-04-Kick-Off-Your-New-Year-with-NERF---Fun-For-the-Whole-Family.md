@@ -21,7 +21,7 @@ January 4th might not be a widely recognized holiday, but it's the perfect day t
 
 * **Healthy Fun**: Get those hearts pumping and burn some calories while having fun! Perfect for a healthy start to your New Year resolutions.
 
-<img class="cover-image" src="{base}/images/posts/20240104KickOffYourNewYearwithNERFFunFortheWholeFamily_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240104KickOffYourNewYearwithNERFFunFortheWholeFamily_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 
 * **Get Creative with NERF Mods**: Customize your NERF blasters and ammo with unique mods, turning everyday games into an exciting adventure.

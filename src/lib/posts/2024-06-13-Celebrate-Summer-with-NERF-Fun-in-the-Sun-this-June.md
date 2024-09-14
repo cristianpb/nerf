@@ -26,7 +26,7 @@ Happy NERF Day! On this special occasion, we invite you to join the NERF communi
 Bring your family together for an unforgettable day of fun and games! Our NERF Family Fun Day is all about bonding with loved ones while unleashing your inner hero. Team up with your siblings, parents, or kids to take on challenges and show off your strategic skills. Don't miss out on our family-friendly events that will make this day one for the memory books!
 
 
-<img class="cover-image" src="{base}/images/posts/20240613CelebrateSummerwithNERFFunintheSunthisJune_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240613CelebrateSummerwithNERFFunintheSunthisJune_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## **June 16th: NERF Workout Wednesday** 
 

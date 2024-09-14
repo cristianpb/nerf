@@ -22,7 +22,7 @@ Get ready to save big on your favorite NerF toys and gear during National NerF W
 2. **Live Events and Workshops:** 
 Join fellow NerF enthusiasts at various live events and interactive workshops being held throughout the week. These activities will focus on various aspects of NerF gameplay, such as strategy, target practice, and creativity in customizing your gear. Be sure to check for local events in your area!
 
-<img class="cover-image" src="{base}/images/posts/20240819CelebrateNationalNERFWeekwithNerF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240819CelebrateNationalNERFWeekwithNerF_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 3. **Social Media Contests:** 
 Show off your NerF skills by participating in social media contests, sponsored by the official NerF Instagram, Facebook, Twitter, or TikTok pages. Upload videos of your best shots, funniest moments, and most inventive creations for a chance to win exclusive NerF prizes!

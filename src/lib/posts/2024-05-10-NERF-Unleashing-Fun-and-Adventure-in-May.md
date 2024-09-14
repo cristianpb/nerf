@@ -26,7 +26,7 @@ During the first week of May, take advantage of exclusive discounts on a wide ra
 Join us at the NERF Battle Royale on May 14th through the 16th. Participate in epic battles and show off your skills, all while making new friends and creating unforgettable memories. Whether you're an experienced NERF warrior or a first-time competitor, you won't want to miss this exciting event!
 
 
-<img class="cover-image" src="{base}/images/posts/20240510NERFUnleashingFunandAdventureinMay_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240510NERFUnleashingFunandAdventureinMay_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 ## NERF Workshop and DIY Session (May 21)
 

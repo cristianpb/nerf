@@ -29,7 +29,7 @@ What better way to kick off February than by celebrating our love for Nerf with 
 ## February 14th - Valentine's Day 💔💗
 
 
-<img class="cover-image" src="{base}/images/posts/20240202CelebrateLoveandNERFthisFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240202CelebrateLoveandNERFthisFebruary_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 Show some love to the ones that matter most in your life. You can express your affection by giving them their favorite Nerf blaster or accessories. Here are some Valentine's Day ideas centered around Nerf:
 

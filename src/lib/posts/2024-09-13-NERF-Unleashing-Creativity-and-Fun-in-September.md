@@ -19,7 +19,7 @@ September is the perfect time to get outdoors, explore new places, and enjoy the
 
 ## **NERF Wars: Community Edition (September 13)**
 
-<img class="cover-image" src="{base}/images/posts/20240913NERFUnleashingCreativityandFuninSeptember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+<img class="inline object-contain w-full my-4" src="{base}/images/posts/20240913NERFUnleashingCreativityandFuninSeptember_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
 
 On the 13th of September, gather your fellow NERF enthusiasts and head to a local park or open space for an unforgettable day of NERF battles and friendly competition. This is your chance to show off your strategic skills, teamwork, and blaster prowess in this exciting all-ages event!
 

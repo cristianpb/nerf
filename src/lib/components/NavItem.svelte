@@ -1,24 +1,12 @@
 <script>
-	import { currentPage, isMenuOpen } from '../assets/js/store';
+  import { NavLi } from 'flowbite-svelte';
+  import { base } from '$app/paths';
 
-	export let href;
+  export let page;
 
-	$: isCurrentPage = $currentPage.startsWith(href);
-
-	const maybeCloseMenu = () => {
-		if (href != $currentPage) {
-			isMenuOpen.set(false);
-		}
-	};
 </script>
 
-<li>
-	<a
-		{href}
-		on:click={maybeCloseMenu}
-		class:active={isCurrentPage}
-		aria-current={isCurrentPage ? 'page' : false}
-	>
-		<slot />
-	</a>
-</li>
+<NavLi 
+  href={base}{page.route}
+  >
+  {page.title}</NavLi>

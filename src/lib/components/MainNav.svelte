@@ -1,23 +1,44 @@
 <script>
-	import { isMenuOpen } from '../assets/js/store';
-	import HamburgerMenuButton from './HamburgerMenuButton.svelte';
-	import NavItems from './NavItems.svelte';
-  import { Navbar, NavBrand, NavHamburger } from 'flowbite-svelte';
-  import { base } from '$app/paths';
-	import { siteTitle } from '$lib/config'
+    import { Navbar, NavBrand, NavUl, NavHamburger } from 'flowbite-svelte';
+    import { DarkMode } from 'flowbite-svelte';
+    import { navItems } from '$lib/config';
+    import NavItem from './NavItem.svelte';
+    import { navigating, page } from '$app/stores';
+    import { base } from '$app/paths';
+    import { siteTitle } from '$lib/config'
 
-	const focusMain = () => {
-		const main = document.querySelector('main');
-		main.focus();
-	}
+    let hideNavMenu = true;
+    let darkmodebtn = 'text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-lg';
+
+    $: activeUrl = $page.url.pathname;
+
+    $: if ($navigating) {
+        hideNavMenu = true
+    }
+
+    const onNavHamburgerClick = (toggleFn) => {
+      toggleFn();
+      hideNavMenu = !hideNavMenu;
+    };
+
+    const onNavLinkClick = (toggleFn) => {
+      hideNavMenu = true;
+    };
 </script>
 
-<Navbar>
-	
-  <NavBrand href="/">
-    <img src="{base}/favicon.png" class="me-3 h-6 sm:h-9" alt="{siteTitle}" />
-    <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">{siteTitle}</span>
-  </NavBrand>
-  <NavHamburger  />
-	<NavItems />
+<Navbar let:toggle>
+    <NavBrand href="{base}/" >
+      <img src="{base}/favicon.png" class="me-3 h-6 sm:h-9" alt="{siteTitle}" />
+      <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">{siteTitle}</span>
+    </NavBrand>
+    <NavHamburger onClick={() => onNavHamburgerClick(toggle)} />
+    <NavUl {activeUrl}  
+        hidden={hideNavMenu}
+        on:click={() => onNavLinkClick(toggle)}
+        >
+        {#each navItems as page}
+          <NavItem {page} />
+        {/each}
+        <DarkMode btnClass={darkmodebtn} />
+        </NavUl>
 </Navbar>

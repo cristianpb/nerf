@@ -1,9 +1,8 @@
 <script>
 	import { siteAuthor } from '$lib/config';
 	import { navItems } from '$lib/config';
-	import NavItems from './NavItems.svelte';
   import { base } from '$app/paths';
-  import { Footer, FooterLinkGroup, FooterLink, ImagePlaceholder, TextPlaceholder, Skeleton, FooterCopyright } from 'flowbite-svelte';
+  import { Footer, FooterLinkGroup, FooterLink, FooterCopyright } from 'flowbite-svelte';
 </script>
 
 <Footer class="mt-4 p-4 bg-white border-t border-gray-200 shadow  dark:bg-gray-800 dark:border-gray-600">

@@ -3,7 +3,6 @@
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
   import Analytics from '$lib/components/Analytics.svelte';
-	import { currentPage, isMenuOpen } from '../lib/assets/js/store.js';
 	import { navItems } from '$lib/config';
 	import { preloadCode } from '$app/navigation';
 	import { onMount } from 'svelte';
@@ -15,12 +14,6 @@
 
 	const transitionIn = { delay: 150, duration: 150 };
 	const transitionOut = { duration: 100 };
-
-	/**
-	 * Updates the global store with the current path. (Used for highlighting
-	 * the current page in the nav, but could be useful for other purposes.)
-	 **/
-	$: currentPage.set(data.path);
 
 	/**
 	 * This pre-fetches all top-level routes on the site in the background for faster loading.

@@ -1,5 +1,6 @@
 <!-- Renders posts listed by category -->
 <script>
+  import { Heading } from 'flowbite-svelte';
 	import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
 	import { siteDescription, postsPerPage } from '$lib/config'
@@ -20,16 +21,32 @@
 
 <!-- TODO: this is duplicated across multiple `+page.svelte` files -->
 {#if posts && posts.length}
-	<h1>
-		Category: {category}
-		<br />
-		<small>Posts {lowerBound}–{upperBound} of {totalPosts}</small>
-	</h1>
-	<Pagination currentPage={page} {totalPosts} path="/blog/category/{category}/page" />
+  <div class="text-center">
+    <Heading tag="h1" class="text-nerforange mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">Category: {category}</Heading>
+    <div class="flex flex-col items-center justify-center gap-2">
+      <div class="text-sm text-gray-700 dark:text-gray-400">
+        Showing <span class="font-semibold text-gray-900 dark:text-white">{lowerBound}</span>
+        to
+        <span class="font-semibold text-gray-900 dark:text-white">{upperBound}</span>
+        of
+        <span class="font-semibold text-gray-900 dark:text-white">{totalPosts}</span>
+        Entries
+      </div>
+    </div>
 
-	<PostsList {posts} />
+    <Pagination currentPage={page} {totalPosts} path="/blog/category/{category}/page" />
 
-	<Pagination currentPage={page} {totalPosts} path="/blog/category/{category}/page" />
+
+      <div class="flex">
+        <div class="flex-auto w-0 md:w-2/12"></div>
+        <div class="flex-auto w-full md:w-8/12">
+          <PostsList {posts} />
+        </div>
+        <div class="flex-auto w-0 md:w-2/12"></div>
+      </div>
+
+    <Pagination currentPage={page} {totalPosts} path="/blog/category/{category}/page" />
+  </div>
 {:else}
 	<h1>Oops!</h1>
 

@@ -1,5 +1,6 @@
 <!-- Renders any page at /blog/category/* -->
 <script>
+  import { Heading } from 'flowbite-svelte';
 	import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
   import { postsPerPage } from '$lib/config'
@@ -18,13 +19,25 @@
 </svelte:head>
 
 
-<h1>Blog category: {category}</h1>
 
-{#if posts.length}
-	<PostsList posts={posts} />
-	<Pagination currentPage={page} totalPosts={total} path="/blog/category/{category}/page" />
-{:else}
-	<p><strong>Ope!</strong> Sorry, couldn't find any posts in the category "{category}".</p>
+<div class="text-center">
+  <Heading tag="h1" class="text-nerforange mb-4" customSize="text-4xl font-extrabold  md:text-5xl lg:text-6xl">Blog category: {category}</Heading>
+    <div class="px-4">
+      <div class="flex">
+        <div class="flex-auto w-0 md:w-2/12"></div>
+        <div class="flex-auto w-full md:w-8/12">
 
-	<p><a href="/blog">Back to blog</a></p>
-{/if}
+          {#if posts.length}
+            <PostsList posts={posts} />
+          {:else}
+            <p><strong>Ope!</strong> Sorry, couldn't find any posts in the category "{category}".</p>
+
+            <p><a href="/blog">Back to blog</a></p>
+          {/if}
+        </div>
+        <div class="flex-auto w-0 md:w-2/12"></div>
+      </div>
+    </div>
+</div>
+
+

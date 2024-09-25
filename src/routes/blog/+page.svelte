@@ -1,5 +1,5 @@
 <script>
-  import { Heading, P, Button } from 'flowbite-svelte';
+  import { Heading } from 'flowbite-svelte';
 	import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
 	import { siteDescription } from '$lib/config'
@@ -20,15 +20,10 @@
       <div class="flex">
         <div class="flex-auto w-0 md:w-2/12"></div>
         <div class="flex-auto w-full md:w-8/12">
-          <div class="text-justify">
-            <PostsList posts={data.posts} />
-            <Pagination currentPage={1} totalPosts={data.total} />
-
-          </div>
+          <PostsList posts={data.posts} />
+          <Pagination currentPage={1} totalPosts={data.total} />
         </div>
         <div class="flex-auto w-0 md:w-2/12"></div>
       </div>
     </div>
 </div>
-
-

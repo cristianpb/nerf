@@ -10,12 +10,10 @@
 	let pagesAvailable
 	$: pagesAvailable = Math.ceil(totalPosts / postsPerPage)
 
-	const isCurrentPage = (page) => page == currentPage
-  //import { page } from '$app/stores';
   import { Pagination } from 'flowbite-svelte';
   import { ChevronLeftOutline, ChevronRightOutline } from 'flowbite-svelte-icons';
 
-  $: pages = [...Array(pagesAvailable)].map((v, i) => {
+  $: pages = [...Array(pagesAvailable)].map((_, i) => {
     return {"name": i+1, href: `${base}${path}/${i+1}`}
   })
 

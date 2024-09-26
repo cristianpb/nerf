@@ -4,11 +4,11 @@
  * 
  **/ 
 
-export const siteTitle = 'Site title'
-export const siteDescription = 'Site description'
-export const siteURL = 'example.com'
-export const siteLink = 'https://example.com'
-export const siteAuthor = '- author placeholder'
+export const siteTitle = 'Nerf Authority'
+export const siteDescription = 'Your ultimate resource for all things Nerf, including in-depth product reviews, buying guides, strategy tips, and more.'
+export const siteURL = 'cristianpb.github.io/nerf'
+export const siteLink = 'https://cristianpb.github.io/nerf'
+export const siteAuthor = '- C-Blaster: The Nerf Guru'
 
 // Controls how many posts are shown per page on the main blog index pages
 export const postsPerPage = 10

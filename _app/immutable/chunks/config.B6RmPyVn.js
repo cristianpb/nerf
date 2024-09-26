@@ -1,1 +1,0 @@
-const t="Site title",e="Site description",o="- author placeholder",s=10,i=[{title:"Blog",route:"/blog"},{title:"About",route:"/about"},{title:"Contact",route:"/contact"}];export{t as a,o as b,i as n,s as p,e as s};

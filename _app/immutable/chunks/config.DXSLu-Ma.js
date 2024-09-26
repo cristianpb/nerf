@@ -1,0 +1,1 @@
+const t="Nerf Authority",e="Your ultimate resource for all things Nerf, including in-depth product reviews, buying guides, strategy tips, and more.",s="- C-Blaster: The Nerf Guru",o=10,r=[{title:"Blog",route:"/blog"},{title:"About",route:"/about"},{title:"Contact",route:"/contact"}];export{e as a,s as b,r as n,o as p,t as s};

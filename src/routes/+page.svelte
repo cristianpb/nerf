@@ -22,7 +22,7 @@
             <P class="mb-6 text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400 text-justify">
               At {siteTitle}, we're passionate about Nerf guns and the endless fun they provide. From classic dart blasters to the latest high-tech innovations, we love trying out all the newest Nerf gear and sharing our thoughts with the community. Our team is made up of dedicated Nerf enthusiasts who live and breathe foam blasters, so you can trust that our content is knowledgeable, unbiased, and always relevant. 
             </P>
-            <img class="inline object-contain w-full md:w-6/12 my-4" src="{base}/images/posts/20240830CelebrateSummerwithNERFSpecialDealsandEventsinAugust_2.jpg" alt="" style="aspect-ratio: 16 / 16;" width="16" height="16">
+            <enhanced:img class="inline object-contain w-full md:w-6/12 my-4" src="$lib/assets/images/20240830CelebrateSummerwithNERFSpecialDealsandEventsinAugust_2.jpg?w=1280;640;400" sizes="(min-width:1920px) 1280px, (min-width:1080px) 640px, (min-width:768px) 400px" alt="{siteTitle} main photo" />
             <P class="mb-6 text-lg lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400  text-justify">
               In addition to our product reviews and buying guides, we also offer a wide range of resources for Nerf fans of all ages. From strategy tips and tricks to DIY mods and accessories, {siteTitle} is packed with information that will help you take your Nerf gameplay to the next level. 
             </P>

@@ -28,7 +28,7 @@
 
 <Navbar let:toggle>
     <NavBrand href="{base}/" >
-      <img src="{base}/favicon.png" class="me-3 h-6 sm:h-9" alt="{siteTitle}" />
+      <enhanced:img src="$lib/assets/images/logo.png?w=50;25;5" sizes="(min-width:1920px) 50px, (min-width:1080px) 25px, (min-width:768px) 5px" width="40" height="30" alt="{siteTitle} logo" />
       <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">{siteTitle}</span>
     </NavBrand>
     <NavHamburger onClick={() => onNavHamburgerClick(toggle)} />

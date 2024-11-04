@@ -1,0 +1,21 @@
+name: Post
+
+on:
+  schedule:
+    - cron: '5 7 * * *'
+
+jobs:
+  post:
+    name: Post automatically
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: pull
+        run: make rclone-install rclone-pull
+        env:
+          RCLONE_CONFIG_S3_ACCESS_KEY_ID: ${{ secrets.RCLONE_CONFIG_S3_ACCESS_KEY_ID }}
+          RCLONE_CONFIG_S3_ENDPOINT: ${{ secrets.RCLONE_CONFIG_S3_ENDPOINT }}
+          RCLONE_CONFIG_S3_PROVIDER: ${{ secrets.RCLONE_CONFIG_S3_PROVIDER }}
+          RCLONE_CONFIG_S3_SECRET_ACCESS_KEY: ${{ secrets.RCLONE_CONFIG_S3_SECRET_ACCESS_KEY }}
+          RCLONE_CONFIG_S3_TYPE: ${{ secrets.RCLONE_CONFIG_S3_TYPE }}
+          BUCKET: ${{ secrets.BUCKET }}
